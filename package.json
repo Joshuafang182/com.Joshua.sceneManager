@@ -1,5 +1,5 @@
-﻿{
-  "name": "com.Joshua.sceneManager",
+{
+  "name": "com.Joshua.scenemanager",
   "version": "1.0.0",
   "displayName": "Joshua 的場景工具包",
   "description": "場景切換與退出場景",
