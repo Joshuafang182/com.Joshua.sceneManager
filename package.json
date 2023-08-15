@@ -1,0 +1,13 @@
+﻿{
+  "name": "com.Joshua.sceneManager",
+  "version": "1.0.0",
+  "displayName": "Joshua 的場景工具包",
+  "description": "場景切換與退出場景",
+  "unity": "2022.3",
+
+  "author": {
+    "name": "Joshua",
+    "email": "Joshua@example.com",
+    "url": " "
+  }
+}
